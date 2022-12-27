@@ -1,1 +1,1 @@
-# calculsMatriciels
+# Projet de mathématiques
